@@ -10,7 +10,7 @@ Este projeto é um pipeline de análise de dados que utiliza o dataset Iris para
 
 ## Como Executar
 
-1. Clone este repositório: "git clone <URL_DO_REPOSITORIO>"
+1. Clone este repositório: "git clone https://github.com/WendelMata/my_pipeline_project.git"
 
 2. Instale as dependências: "pip install pandas scikit-learn joblib seaborn"
 
